@@ -86,9 +86,10 @@ To analyze my own app usage data and discover patterns in how, when and where I 
 
   ## Data Snapshots
   ![Table](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-table.png)
-  ![Raw-Data]()
-  ![Power-Query-Table]()
-  ![Dashboard]()
- 
+  ![Raw-Data](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-raw-data.png)
+  ![Power-Query-Table](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-power-query.png)
+  ![Analysis](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-analysis.png)
+  ![Dashboard](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-dashboard.png)
+  
   ## 🚀Conclusion
-  - 
+
