@@ -85,9 +85,10 @@ To analyze my own app usage data and discover patterns in how, when and where I 
   - At what time of day do I use each app the most?
 
   ## Data Snapshots
-  ![dataset]()
-  ![table]()
-  ![dashboard]()
+  ![Table](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-table.png)
+  ![Raw-Data]()
+  ![Power-Query-Table]()
+  ![Dashboard]()
  
   ## 🚀Conclusion
   - 
