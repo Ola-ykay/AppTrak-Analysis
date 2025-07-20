@@ -85,11 +85,16 @@ To analyze my own app usage data and discover patterns in how, when and where I 
   - At what time of day do I use each app the most?
 
   ## Data Snapshots
-  ![Table](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-table.png)
+  ### Raw Data
   ![Raw-Data](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-raw-data.png)
-  ![Power-Query-Table](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-power-query.png)
+  ### Table
+  ![Table](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-table.png)
+  ### Power Query Table
+  ![Power-Query-Table](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-power-query-table.png)
+  ### Analysis
   ![Analysis](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-analysis.png)
+  ### Dashboard
   ![Dashboard](https://github.com/Ola-ykay/AppTrak-Analysis/blob/main/Apptrak-dashboard.png)
   
   ## 🚀Conclusion
-
+  AppTrak Analysis turned everyday app usage into powerful insights. By tracking when, where, and how I use apps, I gained a deeper understanding of my digital habits, all using data       from my Phone and Excel. A simple idea turned into meaningful self-awareness through data.
